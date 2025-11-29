@@ -1,12 +1,18 @@
-欢迎浏览[VFNTL-elosera-1.0](https://github.com/wiki-mx/VFNTL/blob/83226517870db9b0d6c7bed5c4d51b0ae878385e/README.md)
+小时候的PC端小游戏，在此刻爆发俄罗斯方块elosera系列公告
 
-elosera-1.0已经停止支持现在下载请去蓝奏云[点击此处下载](https://vfntl.lanzoul.com/iDRM93cgyoaf)
+打开一个新的房子，恭喜你，你成功的来到了一个新花园在这个全新的3.0正式版中你还会哪些跟新？一起观看
 
-密码:8142
+<img width="769" height="566" alt="image" src="https://github.com/user-attachments/assets/0e353476-18d9-414f-a325-2b7a8b73ad20" />
+一个邀请码填写最宝贵的专户宝贵记录。
 
-现在elosera-3.0已经进入开发阶段，目前可用邀请码请
-[查看帮助文档](https://github.com/wiki-mx/VFNTL/wiki/%E4%B8%BA%E4%BB%80%E4%B9%88elosera%E2%80%902.0%E6%AD%A3%E5%BC%8F%E7%89%88%E5%81%9C%E6%AD%A2%E5%BC%80%E5%8F%91%EF%BC%9F%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3-%E5%8F%AF%E7%94%A8%E9%82%80%E8%AF%B7%E7%A0%81%E9%93%BE%E6%8E%A5)
+<img width="714" height="546" alt="image" src="https://github.com/user-attachments/assets/5f949d85-2f44-4293-824a-d85a4a279a64" />
+<img width="776" height="542" alt="image" src="https://github.com/user-attachments/assets/56095c5d-75f0-424f-9244-acdd005054ef" />
+<img width="742" height="556" alt="image" src="https://github.com/user-attachments/assets/db945975-40ae-425c-b7b0-2eee5392cbc7" />
 
-想要了解为什么2.0停止开发[点击此处](https://github.com/wiki-mx/VFNTL/wiki/%E4%B8%BA%E4%BB%80%E4%B9%88elosera%E2%80%902.0%E6%AD%A3%E5%BC%8F%E7%89%88%E5%81%9C%E6%AD%A2%E5%BC%80%E5%8F%91%EF%BC%9F%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3-%E5%8F%AF%E7%94%A8%E9%82%80%E8%AF%B7%E7%A0%81%E9%93%BE%E6%8E%A5)
+一个自定义界面让用户自己选择...
 
-关于为什么下载了elosera‐1.0无法使用？-或者不会使用？[点击此处](https://github.com/wiki-mx/VFNTL/wiki/%E5%85%B3%E4%BA%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8B%E8%BD%BD%E4%BA%86elosera%E2%80%901.0%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%EF%BC%9F)
+<img width="637" height="613" alt="image" src="https://github.com/user-attachments/assets/95859c63-01ee-4571-bdfa-971b857e84e9" />
+
+还是
+
+启动以后又边的教程？请自由探索
