@@ -1,4 +1,4 @@
-# [最新版下载](https://vfntl.lanzoul.com/im1Gk3ch5gji)
+# [点击这里下载最新版](https://vfntl.lanzoul.com/im1Gk3ch5gji)
 欢迎浏览[VFNTL-elosera-1.0](https://github.com/wiki-mx/VFNTL/blob/83226517870db9b0d6c7bed5c4d51b0ae878385e/README.md)
 
 elosera-1.0已经停止支持现在下载请去蓝奏云[点击此处下载](https://vfntl.lanzoul.com/iDRM93cgyoaf)
