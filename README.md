@@ -16,3 +16,5 @@
 还是
 
 启动以后又边的教程？请自由探索
+
+<img width="479" height="392" alt="image" src="https://github.com/user-attachments/assets/c5a8f137-b0f9-4709-8410-6cbcab742be5" />
