@@ -1,6 +1,6 @@
 欢迎浏览[VFNTL-elosera-1.0](https://github.com/wiki-mx/VFNTL/tree/%E4%BB%A5%E5%89%8D%E7%9A%84%E6%B8%B8%E6%88%8F)
 
-elosera-1.0已经停止支持现在下载请去蓝奏云[点击此处下载](https://vfntl.lanzoul.com/iDRM93cgyoaf0)
+elosera-1.0已经停止支持现在下载请去蓝奏云[点击此处下载](https://vfntl.lanzoul.com/iDRM93cgyoaf)
 
 密码:8142
 
