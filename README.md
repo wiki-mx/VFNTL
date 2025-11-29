@@ -1,5 +1,6 @@
 # VFNTL-今日最新内容-如果你遇到了exe点击半天无反应为，正常需要等几秒。因为这个没有预加载，请耐心等待
 不会下载来[这里](https://github.com/wiki-mx/VFNTL/wiki/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E6%B8%B8%E6%88%8F%E3%80%90%E6%AD%A3%E5%BC%8F%E7%89%881.0%E3%80%91%E5%85%AC%E5%91%8A)
+有问题？[参照这里](https://github.com/wiki-mx/VFNTL/blob/6da3fd4bb12780a318e5c3ab4d681ca2f9f32db8/README.md)
 
 俄罗斯方块PC端【正式版：1.0】
 ----------------------------------------------------
